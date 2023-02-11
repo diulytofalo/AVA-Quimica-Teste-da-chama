@@ -14,7 +14,7 @@ Por meio de um excelente curso ofertado gratuitamente pelo professor Artur Monte
 
 ### Visualização:
 
-![image](https://user-images.githubusercontent.com/106192001/217841075-5c25c2d0-36ee-4b71-9001-2be80f69f1b0.png)
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/106192001/218237234-78547d2b-37f5-471f-9f46-fdd28f595aa4.png">
 
 ### Levando para a vida:
 
