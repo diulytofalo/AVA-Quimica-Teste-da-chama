@@ -1,9 +1,9 @@
 const cacheName = "Diuly Tófalo-AVA Química - Teste da chama-1";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js",
-    "Build/WebGL.data",
-    "Build/WebGL.wasm",
+    "Build/AVA Quimica - Teste da chama.loader.js",
+    "Build/AVA Quimica - Teste da chama.framework.js",
+    "Build/AVA Quimica - Teste da chama.data",
+    "Build/AVA Quimica - Teste da chama.wasm",
     "TemplateData/style.css"
 
 ];
